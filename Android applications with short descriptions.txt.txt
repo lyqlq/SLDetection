@@ -1,0 +1,70 @@
+1.A2DP Volume:用于车载蓝牙系统 （Class:16  Method:211  LOC:2347）https://github.com/jroal/a2dpvolume
+2.WiFiKeyShare:用QR或NFC共享WiFi密码（Class:52  Method:287  LOC:1533）https://github.com/bparmentier/WiFiKeyShare
+3.Dali:用于Android操作系统的图像模糊库 (Class:60  Method:335  LOC:2861)https://github.com/patrickfav/Dali
+4.Simple Scrobbler:共享Android手机音乐元数据 (Class:59  Method:505  LOC:5131)https://github.com/simple-last-fm-scrobbler/sls
+5.TopoSuite:用于土地测量 (Class:109  Methog:897  LOC:11144)https://github.com/hgdev-ch/toposuite-android
+6.Vanilla Music:音乐播放器 (Class:104  Method:1131 LOC:13428)https://github.com/vanilla-music/vanilla
+7.Trip-O-Meter:用于计划行程和支出 (Class:32  Method:221  LOC:1544)https://github.com/midhunhk/trip-o-meter
+8.ColorHub:调色板  (Class:41  Method:402  LOC:3695)https://github.com/AntriKodSoft/ColorHub
+9.Network Monitor:网络监控工具 (Class:60  Method:228  LOC:2161)https://github.com/caarmen/network-monitor
+10.PilferShush Jammer:麦克风检查器和干扰应用程序 (Class:19  Method:208  LOC:3234)https://github.com/kaputnikGo/PilferShushJammer
+11.Jewel Thief:传奇珠宝小偷游戏	 (Class:56	 Method:292  LOC:2767)https://github.com/cdetamble/jewelthief
+12.DNS Client for Android:Android DNS客户端 (Class:14  Method:122  LOC:1622)https://github.com/gryphius/androdns
+13.WiFi Automatic:无线自动禁用WiFi (Class:26  Method:62  LOC:909)https://github.com/j4velin/WiFi-Automatic
+14.Shader Editor:可创建GLSL着色器并将其用作动态壁纸 (Class:68	 Method:542  LOC:6058)https://github.com/markusfisch/ShaderEditor
+15.Wave Lines Wallpaper:动态壁纸 (Class:15  Method:143  LOC:1459)https://github.com/markusfisch/WaveLinesWallpaper
+16.Clementine Remote:远程控制音乐播放器“ Clementine”(Class79  Method:2610  LOC:17539)https://github.com/clementine-player/Android-Remote
+17.Activity Diary:日记本 (Class:33  Method:227  LOC:3437)https://github.com/ramack/ActivityDiary
+18.Simple Search:带有小部件的简单搜索应用 (Class:18  Method:95  LOC:759)https://github.com/TobiasBielefeld/Simple-Search
+19.SMSdroid:用于阅读和发送短信 (Class:21  Method:108  LOC:1846)https://github.com/felixb/smsdroid
+20.DavidWebb:用于调用JSON REST服务 (Class:27  Method:175  LOC:1847)https://github.com/hgoebl/DavidWebb
+21.Cubes:简单的体素游戏 (Class:356  Method:2043  LOC:18748)https://github.com/ictrobot/Cubes
+22.GPS Logger:适用于Android移动设备的GPS记录器 (Class:24  Method:173  LOC:1950)https://github.com/BasicAirData/GPSLogger
+23.Hupl:用于文件共享的Android应用程序 (Class:24  Method:103  LOC:1139)https://github.com/Rouji/Hupl
+24.VikingGTD:任务列表和活动管理器 (Class:27  Method:366  LOC:4814)https://github.com/jgaa/VikingGTD
+25.Fruit Radar:查找植物并在线共享 (Class:103  Method:1051  LOC:7950)https://github.com/niccokunzmann/mundraub-android
+26.RoMote:Roku遥控器 (Class:56  Method:402  LOC:4356)https://github.com/wseemann/RoMote
+27.CommonTitleBar:自定义标题栏并封装成控件 (Class:14  Method:129  LOC:1323)https://github.com/LeonDevLifeLog/android-titlebar
+28.Magpie:Android系统开发框架 (Class:190  Method:2498  LOC:17623)https://github.com/zhouzhuo810/Magpie
+29.MPAndroidChart:适用于Android系统的图表/图形视图库 (Class:162  Method:1349  LOC:12241)https://github.com/PhilJay/MPAndroidChart
+30.GSYVideoPlayer:视频播放器 (Class:218	Method:2289  LOC:17841)https://github.com/CarGuo/GSYVideoPlayer
+31.Calculator N+:Android计算器 (Class:189  Method:2159  LOC:19694)https://github.com/tranleduy2000/ncalc
+32.Slide:适用于Android系统的Reddit浏览器	 (Class:224	  Method:1570  LOC:21548)https://github.com/ccrama/Slide
+33.QMUI Android:AndroidUI 库	(Class:318	 Method:2632  LOC:21702)https://github.com/Tencent/QMUI_Android
+34.Tinker:适用于Android的修补程序库 (Class:205  Method:1737	LOC:19082)https://github.com/Tencent/tinker
+35.realm:移动数据库 (Class:480  Method:4773  LOC:42011)https://github.com/realm/realm-java
+36.NHViewer:适用于Android的第三方nhentai客户端 (Class:29  Method:216  LOC:1548)https://github.com/ttdyce/NHentai-NHViewer
+37.Android Image Cropper:适用于Android的图像裁剪库 (Class:11  Method:172  LOC:2778)https://github.com/ArthurHub/Android-Image-Cropper
+38.AIMSICD:用于检测IMSI-Catchers的Android应用程序 (Class:85	  Method:412  LOC:5401)https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
+39.Terminal Emulator:适用于Android的终端仿真器 (Class:72  Method:862  LOC:10895)https://github.com/jackpal/Android-Terminal-Emulator
+40.ConnectBot:适用于Android的SSH客户端	 (Class:71  Method:698  LOC:9813)https://github.com/connectbot/connectbot
+41.K-9 Mail:适用于Android的电子邮件应用程序 (Class:368  Method:3174  LOC:27391)https://github.com/k9mail/k-9
+42.Music DNA:音乐播放器 (Class:524  Method:4666  LOC:44948)https://github.com/harjot-oberai/MusicDNA
+43.microMathematics Plus:扩展视觉计算器 (Class:159	 Method:1235  LOC:13643)https://github.com/mkulesh/microMathematics
+44.AnkiDroid:基于抽认卡的学习辅助工具 (Class:89  Method:1765  LOC:14866)https://github.com/ankidroid/Anki-Android
+45.Remixed Dungeon:具有像素艺术图形和简单界面的游戏 (Class:834  Method:3852  LOC:32170)https://github.com/NYRDS/remixed-dungeon
+46.Termux	:带有包装的终端仿真器 (Class:29  Method:231  LOC:3249)https://github.com/termux/termux-app
+47.Shitter:适用于Android的备用Twitter应用程序 (Class:53  Method:528  LOC:5011)https://github.com/nuclearfog/Shitter
+48.J2ME Loader:适用于Android的J2ME模拟器  (Class:760  Method:6238  LOC:50500)https://github.com/nikita36078/J2ME-Loader
+49.Notable:学习音乐理论基础的Android应用程序 (Class:149  Method:5475	LOC:13486)https://github.com/Toga-Party/Notable-Android
+50.Chemical Tools:化学专业学生必不可少的化学工具 (Class:15  Method:97  LOC:2574)https://github.com/chemicaltools/chemicaltools-android
+51.Gadgetbridge:与设备进行通信的应用程序 (Class:710  Method:5203  LOC:37302)https://github.com/Freeyourgadget/Gadgetbridge
+52.Blur Benchmark:用于测试某些模糊算法的视觉质量和性能 (Class:46  Method:370  LOC:3594)https://github.com/patrickfav/BlurTestAndroid
+53.EverythingDone:日程管理应用程序 (Class:129  Method:1135	LOC:12814)https://github.com/ywwynm/EverythingDone
+54.Turbo Editor:Android文件编辑器 (Class:51  Method:513  LOC:5067)https://github.com/vmihalachi/turbo-editor
+55.Studiportal:查看成绩和考试结果的Android应用程序 (Class:20  Method:154  LOC:1554)https://github.com/crysxd/Studiportal-Checker
+56.MoTAC	:棋盘游戏 (Class:53  Method:576  LOC:7225)https://github.com/CarstenKarbach/MoTAC
+57.LanXchange:本地的网络文件传输应用程序 (Class:152  Method:1060  LOC:10567)https://github.com/tfg13/LanXchange
+58.Slider Synth:Android音频合成器 (Class:18  Method:140  LOC:1313)https://github.com/marcopar/SliderSynth
+59.2048 Myo Edition:2048游戏 (Class:24  Method:311	  LOC:2858)https://github.com/d4rken/myo-android-2048
+60.AndroidChromium:谷歌浏览器Android版开源的应用程序 (Class:1007  Method:11830  LOC:89051)https://github.com/JackyAndroid/AndroidChromium
+61.Beacon Locator:与蓝牙信标交互的应用程序 (Class:60  Method:521  LOC:3527)https://github.com/vitas/beaconloc
+62.OneBusAway:提供最新的实时公交信息 (Class:289  Method:2193  LOC:19091)https://github.com/OneBusAway/onebusaway-android
+63.Notes:简单快速的笔记应用程序 (Class:33	 Method:147  LOC:2738)https://github.com/pauladj/android-quick-note-taking-app
+64.EVO-PTT:适用于企业的对讲机的应用程序	 (Class:56	Method:558  LOC:5423)https://github.com/Theofilos-Chamalis/EVO-PTT
+65.xCalc:Android计算器应用程序	 (Class:33	Method:201  LOC:1548)https://github.com/M90K7/xCalc#readme
+66.AndroidPerformanceMonitor:适用于Android的透明ui阻止检测库 (Class:23  Method:116  LOC:855)https://github.com/markzhai/AndroidPerformanceMonitor
+67.ML Manager:Android应用程序管理器 (Class16  Method:126  LOC:1411)https://github.com/javiersantos/MLManager
+68.CameraFilter:Android设备上的实时相机滤镜 (Class:36  Method:87  LOC:746)https://github.com/nekocode/CameraFilter
+69.MaterialProgressBar:进度条样式库 (Class:36  Method:235  LOC:1596)https://github.com/zhanghai/MaterialProgressBar
+70.Noad Music Player:Android音乐播放器 (Class:35  Method:148  LOC:3368)https://github.com/gauravjot/android-noad-music-player
